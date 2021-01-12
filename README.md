@@ -8,4 +8,4 @@ The implementation language used is GNU C++ as this is low level enough to permi
 - [History of computers](/history.md)- an overview of how computers came to be
 
 
-&emdash; &ohmega;
+&psi; &omega;
