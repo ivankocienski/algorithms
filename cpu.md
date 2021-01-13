@@ -5,12 +5,12 @@ The CPU is the heart of a computer that performs all the computation necessary t
 Please note that this explanation is primarily going to focus on the x86 (64 bit) family of CPUs for examples.
 
 ## Basic Logical Computer
-!(Logical Computer Diagram)[/images/basic-logical-computer.svg]
+![Logical Computer Diagram](/images/basic-logical-computer.svg)
 
 The logical computer diagram represents how data flows through a computer system where the CPU is at the centre orchastrating the entire process.
 
 ## Basic Physical Computer
-!(Physical Computer Diagram)[/images/basic-physical-computer.svg]
+![Physical Computer Diagram](/images/basic-physical-computer.svg)
 
 The physical layout of a computer is more likely to follow from the above diagram where a "main bus" connects all of the components together. This type of layout is very simple and cheap which is why many early home computers (of the late 1970s and early 1980s) took this approach. It has a low cost but by having all the components share the same bus resource contention was common place. This happens when information is being read from the input device and stored in the RAM whilst the output device could be delivering data from the ROM. Whilst both of these activities share none of same components the main bus (and the CPU) can only do one task at a time- read the input device or write to the output. This is known as a "bottleneck".
 
