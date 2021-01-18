@@ -8,3 +8,4 @@ The implementation language used is GNU C++ as this is low level enough to permi
 
 [History of computers](/history.md)- an overview of how computers came to be
 
+[Computation Hardware](/cpu.md)- What a computer is (physically and logically).
