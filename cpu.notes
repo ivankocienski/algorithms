@@ -1,0 +1,39 @@
+Not in particular order.
+
+DONE Scale down SVG images?
+
+
+
+Part 1: in theory:
+  Basic Logical Computer
+  Basic physical computer
+  a modern computer
+  the CPU
+  How computation works
+  instructions
+
+Part 2: the CPU
+  CISC
+  RISC
+  word size
+  floating point (and SIMD)
+  the stack
+  the heap
+  MMU
+  interrupts
+  kernel modes and user modes
+  pipelining
+  cache
+  register pool
+  execution units
+  dynamic clocking
+  virtual memory
+  virtualized CPUs
+
+Part 3: the computer
+  firmware
+  kernels
+  multi-tasking
+  system calls
+  the operating system
+  libraries and linking

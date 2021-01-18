@@ -20,7 +20,7 @@ It has a low cost but by having all the components share the same bus resource c
 
 ![Modern PC Architecture](/images/modern-pc-architecture.svg)
 
-Modern desktop PCs have an architecture that is less centralized. Using "intelligent" devices that are essentially problem-specific computers in their own right. Much of the "work" can be offloaded from the CPU. 
+Modern desktop PCs have an architecture that is less centralized. Using "intelligent" devices that are essentially problem-specific computers in their own right. Much of the "work" can be offloaded from the CPU. In the diagram above the greyed box represents the integrated CPU and controllers in one package. The thicker the lines between boxes the faster/shorter those data paths are.
 
 ### The CPU
 
