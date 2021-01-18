@@ -6,6 +6,8 @@ Complexity analysis (at least awareness of it) is how this methodology is execut
 
 ## Big O
 
+Every algorithm executed has a sequence of steps the CPU must walk through. Some algorithms are solved in one step; like looking up a value in a table. This has a complexity of O(1). More complicated algorithms will take an amount of time that is proportional to the input size. In analysis the size of the input is typically designated by the character 'N'. So an algorithm that takes as many steps as its input data size is O(N). For example; counting the number of occurrences of a value in an array.
+
 ## Big Omega &omega;
 
 ## Big Theta &theta;
