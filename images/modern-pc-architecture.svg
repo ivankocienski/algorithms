@@ -127,9 +127,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="378.19311"
-     inkscape:cx="132.50183"
-     inkscape:zoom="0.7980198"
+     inkscape:cy="451.34855"
+     inkscape:cx="-65.010894"
+     inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -156,98 +156,6 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <g
-       id="g900"
-       transform="translate(-35.66054,-287.6676)">
-      <rect
-         ry="0.51133621"
-         y="27.133698"
-         x="26.709961"
-         height="40.454796"
-         width="50.051247"
-         id="rect833"
-         style="fill:none;stroke:#000000;stroke-width:1.53401;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <text
-         id="text858"
-         y="50.533985"
-         x="38.052311"
-         style="font-style:normal;font-weight:normal;font-size:12.2721px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.511336px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.511336px"
-           y="50.533985"
-           x="38.052311"
-           id="tspan856"
-           sodipodi:role="line">input</tspan></text>
-    </g>
-    <g
-       id="g920"
-       transform="translate(-178.72273,-430.62024)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:1.53401;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect833-1"
-         width="50.051247"
-         height="40.454796"
-         x="357.4537"
-         y="311.22858"
-         ry="0.51133621" />
-      <text
-         id="text862"
-         y="335.67749"
-         x="368.83499"
-         style="font-style:normal;font-weight:normal;font-size:12.2721px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.511336px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.511336px"
-           y="335.67749"
-           x="368.83499"
-           id="tspan860"
-           sodipodi:role="line">RAM</tspan></text>
-    </g>
-    <g
-       id="g915"
-       transform="translate(-156.49693,-414.29843)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:1.53401;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="rect833-6"
-         width="50.051247"
-         height="40.454796"
-         x="252.51361"
-         y="294.90677"
-         ry="0.51133621" />
-      <text
-         id="text866"
-         y="319.3587"
-         x="263.22379"
-         style="font-style:normal;font-weight:normal;font-size:12.2721px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.511336px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.511336px"
-           y="319.3587"
-           x="263.22379"
-           id="tspan864"
-           sodipodi:role="line">ROM</tspan></text>
-    </g>
-    <g
-       id="g905"
-       transform="translate(-28.917359,-288.36248)">
-      <text
-         id="text874"
-         y="50.749493"
-         x="247.12997"
-         style="font-style:normal;font-weight:normal;font-size:12.2721px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.511336px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.511336px"
-           y="50.749493"
-           x="247.12997"
-           id="tspan872"
-           sodipodi:role="line">output</tspan></text>
-      <rect
-         ry="0.51133621"
-         y="27.828583"
-         x="239.38596"
-         height="40.454796"
-         width="50.051247"
-         id="rect833-1-4"
-         style="fill:none;stroke:#000000;stroke-width:1.53401;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-    </g>
     <rect
        ry="0.51133639"
        y="21.087482"
@@ -275,53 +183,6 @@
          x="221.2054"
          y="62.944202"
          style="stroke-width:0.511336px">Processor</tspan></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="rect922"
-       width="281.21594"
-       height="21.454071"
-       x="-15.885286"
-       y="-181.6339"
-       ry="0.26458332" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.2472px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.676963px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="90.293816"
-       y="-165.32222"
-       id="text926"><tspan
-         sodipodi:role="line"
-         id="tspan924"
-         x="90.293816"
-         y="-165.32222"
-         style="stroke-width:0.676963px">main bus</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 14.624987,-222.17143 0.268779,39.69709"
-       id="path928" />
-    <path
-       id="path928-1"
-       d="m 233.8858,-180.53641 0.26878,-39.69709"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-4)" />
-    <path
-       id="path928-0"
-       d="m 22.921886,-161.05456 0.268782,39.69709"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-49)" />
-    <path
-       id="path928-9"
-       d="m 47.967815,-119.41953 0.268783,-39.69709"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6)" />
-    <path
-       id="path928-6"
-       d="m 120.92912,-119.41953 0.26878,-39.6971"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)" />
-    <path
-       id="path928-4"
-       d="m 193.06708,-161.05456 0.26878,39.69709"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-495)" />
-    <path
-       id="path928-17"
-       d="m 215.60394,-119.41953 0.26878,-39.69709"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8)" />
     <rect
        ry="0.51133639"
        y="72.417519"
